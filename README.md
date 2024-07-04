@@ -18,6 +18,17 @@ Como objetivo general , hemos establecido lo siguiente:
 
 >Realizar una página web que permita al usuario aprender y consientizar sobre el uso del lenguaje de señas mediante actividades designadas.
 
+## Objetivos Especificos
+
+> Desarrollar una interfaz de usuario intuitiva y accesible para dispositivos móviles o de escritorio.
+
+> Proveer materiales educativos actualizados.
+
+> Implementar programas de tutoria que mejoren el conocimiento del usuario.
+
+> Integrar herramientas de análisis para monitorear el comportamiento y progreso del usuario.
+
+> Permitir al usuario generar una cuenta que sea accesible en todo momento.
 
 
 | Logo de la Empresa | Logo del Producto|
