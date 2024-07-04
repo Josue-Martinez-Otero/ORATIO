@@ -2,21 +2,21 @@
 
 ## Descripción
 
-ORATIO es una plataforma dedicada a la enseñanza del lenguaje de señas para hispanohablantes. El objetivo principal es proporcionar recursos accesibles, interactivos a el público interesado en aprender el lenguaje de señas, ya sea por motivos personales, profesionales o educativos.
+**ORATIO** es una plataforma dedicada a la enseñanza del lenguaje de señas para hispanohablantes. El objetivo principal es proporcionar recursos accesibles e interactivos al público interesado en aprender el lenguaje de señas, ya sea por motivos personales, profesionales o educativos.
 
-## Problematica
+## Problemática
 
-Este proyecto ha sido implementado, debido a la falta de interes en las personas para aprender el lenguaje de señas, pues bien se sabe que a pesar de la no tan constante coincidencia de encontrarnos en una situación donde utilicemos esta habilidad, las barreras de comunicación entre personas sordas y oyentes dificultan la integración y la inclusión social.
+Este proyecto ha sido implementado debido a la falta de interés en las personas para aprender el lenguaje de señas. A pesar de no encontrarnos constantemente en situaciones que requieran esta habilidad, las barreras de comunicación entre personas sordas y oyentes dificultan la integración y la inclusión social.
 
-## Propuesta de Solución  
+## Propuesta de Solución
 
-Es por ello que hemos decidido desarrollar una página web intuitiva y accesible, disponible en varios dispositivos, que ofrezca cursos de lenguaje de señas, esta plataforma tendrá contenido educativo en focado en la comunicación efectiva entre ambos bandos.
+Es por ello que hemos decidido desarrollar una página web intuitiva y accesible, disponible en varios dispositivos, que ofrezca cursos de lenguaje de señas. Esta plataforma estará centrada en mejorar la comunicación efectiva entre ambos grupos.
 
 ## Objetivo General
 
-Como objetivo general , hemos establecido lo siguiente: 
+Como objetivo general, hemos establecido lo siguiente:
 
->Realizar una página web que permita al usuario aprender y consientizar sobre el uso del lenguaje de señas mediante actividades designadas.
+> Realizar una página web que permita al usuario aprender y concientizar sobre el uso del lenguaje de señas mediante actividades designadas.
 
 ## Objetivos Específicos
 
@@ -24,7 +24,7 @@ Como objetivo general , hemos establecido lo siguiente:
 2. Proveer materiales educativos actualizados.
 3. Implementar programas de tutoría que mejoren el conocimiento del usuario.
 4. Integrar herramientas de análisis para monitorear el comportamiento y progreso del usuario.
-5. Permitir al usuario generar una cuenta que sea accesible en todo momento.
+5. Permitir al usuario generar una cuenta accesible en todo momento.
 
 
 ## Identidad Gráfica
