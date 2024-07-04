@@ -32,9 +32,9 @@ Como objetivo general , hemos establecido lo siguiente:
 
 ## Identidad Gráfica
 
-| Logo de la Empresa | Logo del Producto|
-| ------------------------------- |------------------------------- |
-| <img src="LogoTEEM.jpg" alt="Imagen" width="250" height="350">|  <img src="Logo_Oratio.png" alt="Imagen" width="250" height="350">|
+| Logo de la Empresa | Logo del Producto | Paleta de colores |
+| ------------------------------- | ------------------------------- | ------------------------------- |
+| <img src="LogoTEEM.jpg" alt="Logo TEEM" width="250" height="350"> | <img src="Logo_Oratio.png" alt="Logo Oratio" width="250" height="350"> | <img src="Paleta_de_colores.png" alt="Paleta de colores" width="250" height="350"> |
 
 ## Lista de Tecnologás
 
