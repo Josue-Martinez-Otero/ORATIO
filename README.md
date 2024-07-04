@@ -13,7 +13,7 @@ Este proyecto ha sido implementado, debido a la falta de interes en las personas
 Es por ello que hemos decidido desarrollar una página web intuitiva y accesible, disponible en varios dispositivos, que ofrezca cursos de lenguaje de señas, esta plataforma tendrá contenido educativo en focado en la comunicación efectiva entre ambos bandos.
 
 
-| Logotipo de la Empresa                                        | Logotipo del Producto                                              |
+|                  Logotipo de la Empresa                       |                 Logotipo del Producto                              |
 | <img src="LogoTEEM.jpg" alt="Imagen" width="250" height="350">|  <img src="Logo_Oratio.png" alt="Imagen" width="250" height="350">)|
 |--------------------------------------------|------------------------------------------|
 
