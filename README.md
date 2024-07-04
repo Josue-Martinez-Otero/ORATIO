@@ -53,6 +53,7 @@ Como objetivo general , hemos establecido lo siguiente:
 - [Uriel Abdalah Torres Medina.](https://github.com/UrielMedina0302)
 - [Marcos de Jesús Ríos Durán.](https://github.com/Marcos-Jesus-Rios-Duran)
 - [Josué Atlai Martínez Otero.](https://github.com/Josue-Martinez-Otero)
+  
 **Diseñador UI/UX:** 
 - Juvenal Viveros.
   
