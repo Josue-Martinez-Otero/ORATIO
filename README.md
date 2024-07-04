@@ -2,5 +2,5 @@
 
 
 | Logotipo de la Empresa                   | Logotipo del Producto                  |
-| ![LOGOEmpresa](https://github.com/Josue-Martinez-Otero/ORATIO/blob/main/LogoTEEM.jpg)| ![LOGOProducto](https://github.com/Josue-Martinez-Otero/ORATIO/blob/main/Logo_Oratio.png)|
+| <img src="LogoTEEM.jpg" alt="Imagen" width="250" height="350">|  <img src="Logo_Oratio.png" alt="Imagen" width="250" height="350">)|
 
