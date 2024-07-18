@@ -7,7 +7,7 @@
    >| - Databases<br>
    >| - Backups<br>
    >| - Data Dictionary<br>
-    >| - Diagrams<br>
+   >| - Diagrams<br>
    >**| - Queries**<br>
    >&nbsp;&nbsp; | -Scripts<br>
    >&nbsp;&nbsp; | -Triggers<br>
