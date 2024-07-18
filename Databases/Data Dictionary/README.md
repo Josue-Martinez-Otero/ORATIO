@@ -1,4 +1,4 @@
-## Data Dictionary ![Backup](https://img.shields.io/badge/Backups-azul?style=for-the-badge&logo=blanco&logoColor=azul)
+## Data Dictionary ![Dictionary](https://img.shields.io/badge/Data%20Dictionary-blue?style=for-the-badge)
 
 
   En este apartado se encontrara un diccionario de datos transaccionales que almacena información sobre los objetos de la base de datos y todos sus cambios. 
