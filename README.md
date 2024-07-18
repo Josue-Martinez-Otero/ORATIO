@@ -6,11 +6,11 @@
 
 ## Problemática
 
-Este proyecto ha sido implementado debido a la falta de interés en las personas para aprender el lenguaje de señas. A pesar de no encontrarnos constantemente en situaciones que requieran esta habilidad, las barreras de comunicación entre personas sordas y oyentes dificultan la integración y la inclusión social.
+La falta de interés en las personas para aprender el lenguaje de señas. A pesar de no encontrarnos constantemente en situaciones que requieran esta habilidad, las barreras de comunicación entre personas sordas y oyentes dificultan la integración y la inclusión social.
 
 ## Propuesta de Solución
 
-Es por ello que hemos decidido desarrollar una página web intuitiva y accesible, disponible en varios dispositivos, que ofrezca cursos de lenguaje de señas. Esta plataforma estará centrada en mejorar la comunicación efectiva entre ambos grupos.
+Es por ello que se ha decidido desarrollar una página web que sea intuitiva y accesible, disponible en varios dispositivos, que ofrezca cursos de lenguaje de señas. Esta plataforma estará centrada en mejorar la comunicación efectiva entre ambos grupos.
 
 ## Objetivo General
 
