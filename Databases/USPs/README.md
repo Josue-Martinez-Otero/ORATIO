@@ -1,7 +1,7 @@
 ## USPs ![MYSQL](https://img.shields.io/badge/USPs-orange?style=for-the-badge)
 
 
-  En este apartado se encontraran los s procedimientos almacenados en MySQL que pueden ser almacenadas y ejecutadas en la base de datos. Estos procedimientos pueden aceptar parámetros de entrada, realizar operaciones complejas y devolver resultados. 
+  En este apartado se encontraran los  procedimientos almacenados en MySQL que pueden ser almacenadas y ejecutadas en la base de datos. Estos procedimientos pueden aceptar parámetros de entrada, realizar operaciones complejas y devolver resultados. 
 
   ## Estructura de Archivos
    >ORATIO<br>
@@ -10,9 +10,9 @@
    >| - Data Dictionary<br>
    >| - Diagrams<br>
    >| - Queries<br>
-   >**| - Scripts**<br>
-   >&nbsp;&nbsp; | -Triggers<br>
-   >&nbsp;&nbsp; | -USPs<br>
+   >| - Scripts<br>
+    >| - Triggers<br>
+   >**| - USPs**<br>
    <br>
 
    ## Equipo de Desarrollo
