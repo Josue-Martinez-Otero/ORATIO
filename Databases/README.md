@@ -19,5 +19,5 @@
    |----------|--------|---|-------------|
    |Josue Martinez Otero|[@Josue-Martinez-Otero](https://github.com/Josue-Martinez-Otero)|Líder de la Databases|✅ Revisado y aprobado.|
    |Marcos Jesus Rios Duran |[@Marcos-Jesus-Rios-Duran](https://github.com/Marcos-Jesus-Rios-Duran)|Desarrollo de Base de datos y Documentación|❌ Hay errores en el código, no aprobado.|
-   |Yaréd Amaury Romero Martínez|[@AmauryRomero1285](https://github.com/AmauryRomero1285)|Desarrollador Backend|✅|
-   |Uriel Abdallah Medina Torres |[@UrielMedina0302](https://github.com/UrielMedina0302)|Desarrollador Frontend|✅|
+   |Yaréd Amaury Romero Martínez|[@AmauryRomero1285](https://github.com/AmauryRomero1285)|Desarrollador Backend|😔 Sin comentar|
+   |Uriel Abdallah Medina Torres |[@UrielMedina0302](https://github.com/UrielMedina0302)|Desarrollador Frontend|😔 Sin comentar|
