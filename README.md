@@ -6,7 +6,7 @@
 
 ## Problemática
 
-Este proyecto ha sido implementado debido a la falta de interés en las personas para aprender el lenguaje de señas. A pesar de no encontrarnos constantemente en situaciones que requieran esta habilidad, las barreras de comunicación entre personas sordas y oyentes dificultan la integración y la inclusión social.
+La falta de interés en las personas para aprender el lenguaje de señas. A pesar de no encontrarnos constantemente en situaciones que requieran esta habilidad, las barreras de comunicación entre personas sordas y oyentes dificultan la integración y la inclusión social.
 
 ## Propuesta de Solución
 
