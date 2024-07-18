@@ -1,4 +1,4 @@
-# FrontEnd ![css](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white)
+# CSS ![css](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white)
 En este apartado se encontraran todo lo relacionado con la parte de estilo de la aplicación web, incluyendo la tipografía, colores, dimensiones y animaciones de interacción.
 ## Estructura archivos
 
