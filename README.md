@@ -10,7 +10,7 @@ La falta de interés en las personas para aprender el lenguaje de señas. A pesa
 
 ## Propuesta de Solución
 
-Es por ello que hemos decidido desarrollar una página web intuitiva y accesible, disponible en varios dispositivos, que ofrezca cursos de lenguaje de señas. Esta plataforma estará centrada en mejorar la comunicación efectiva entre ambos grupos.
+Es por ello que se ha decidido desarrollar una página web que sea intuitiva y accesible, disponible en varios dispositivos, que ofrezca cursos de lenguaje de señas. Esta plataforma estará centrada en mejorar la comunicación efectiva entre ambos grupos.
 
 ## Objetivo General
 
