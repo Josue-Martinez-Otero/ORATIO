@@ -9,8 +9,8 @@
    >| - Data Dictionary<br>
    >| - Diagrams<br>
    >| - Queries<br>
-   >**| - Scripts**<br>
-   >&nbsp;&nbsp; | -Triggers<br>
+   >| - Scripts<br>
+   >**| - Triggers**<br>
    >&nbsp;&nbsp; | -USPs<br>
    <br>
 
