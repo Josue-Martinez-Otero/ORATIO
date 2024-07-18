@@ -11,7 +11,7 @@
    >| - Diagrams<br>
    >| - Queries<br>
    >| - Scripts<br>
-    >| - Triggers<br>
+   >| - Triggers<br>
    >**| - USPs**<br>
    <br>
 
