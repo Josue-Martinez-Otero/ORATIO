@@ -1,6 +1,6 @@
 ## Databases ![MYSQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 
-  En este apartado se encontaran los archivos, imagenes, diagramas, scripts, queries, triggers y USPs del proyecto ORATIO.
+  En este apartado se encontraran los archivos, imagenes, diagramas, scripts, queries, triggers y USPs del proyecto ORATIO.
   ## Estructura de Archivos
    >ORATIO<br>
    >**| -Database**<br>
