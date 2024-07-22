@@ -1,7 +1,7 @@
 ## Triggers ![MYSQL](https://img.shields.io/badge/Triggers-blue?style=for-the-badge)
 
 
-  En este apartado se encontraran los triggers para saber cuando se modifico algo de una tabla de la base de datos de ORATIO
+  En este apartado se encontraran los triggers para saber cuando se modifico algo de una tabla de la base de datos de ORATIO.
   ## Estructura de Archivos
    >ORATIO<br>
    >| - Databases<br>
