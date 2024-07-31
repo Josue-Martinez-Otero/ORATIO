@@ -33,28 +33,19 @@ Como objetivo general, hemos establecido lo siguiente:
 | ------------------------------- | ------------------------------- | ------------------------------- |
 | <img src="LogoTEEM.jpg" alt="Logo TEEM" width="250" height="350"> | <img src="oratio_new.jpeg" alt="Logo Oratio" width="250" height="350"> | <img src="Paleta_de_colores.png" alt="Paleta de colores" width="250" height="350"> |
 
-## Lista de Tecnologás
+## Lista de Tecnologías
 
 - Servidor: ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 - Pruebas: ![Google Chrome](https://img.shields.io/badge/Google%20Chrome-4285F4?style=for-the-badge&logo=GoogleChrome&logoColor=white)
 - Cliente: ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 - Documentación: ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
 
-## Autores
-
-**Gerente de Proyecto:** 
-- [Josué Atlai Martínez Otero.](https://github.com/Josue-Martinez-Otero)
-
-**Desarrolladores Web:** 
+## Autores 
+- [Josué Atlai Martínez Otero.](https://github.com/Josue-Martinez-Otero) 
 - [Yáred Amaury Romero Martínez.](https://github.com/AmauryRomero1285)
 - [Uriel Abdalah Torres Medina.](https://github.com/UrielMedina0302)
 - [Marcos de Jesús Ríos Durán.](https://github.com/Marcos-Jesus-Rios-Duran)
 - [Josué Atlai Martínez Otero.](https://github.com/Josue-Martinez-Otero)
-  
-**Diseñador UI/UX:** 
 - Juvenal Viveros.
-  
-**Expertos en Lenguaje de Señas:** 
-- Consultores y creadores de contenido educativo.
 
 
