@@ -20,7 +20,7 @@ Como objetivo general, hemos establecido lo siguiente:
 
 ## Objetivos Específicos
 
-1. Desarrollar una interfaz de usuario intuitiva y accesible para dispositivos móviles o de escritorio.
+1. Desarrollar una interfaz de usuario intuitiva y accesible tanto como para los dispositivos móviles como para los de escritorio.
 2. Proveer materiales educativos actualizados.
 3. Implementar programas de tutoría que mejoren el conocimiento del usuario.
 4. Integrar herramientas de análisis para monitorear el comportamiento y progreso del usuario.
