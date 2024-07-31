@@ -1,4 +1,4 @@
-# FrontEnd ![JS](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+# JavaScript ![JS](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 En este apartado se encontraran todo lo relacionado con la interactividad de la página, validacion de formularios y la manipulación de DOM.
 ## Estructura archivos
 
@@ -8,10 +8,10 @@ En este apartado se encontraran todo lo relacionado con la interactividad de la 
 >| - DataBases <br>
 >| - Documentation <br>
 >**| - FrontEnd** <br>
->&nbsp;&nbsp;| -Assets <br>
->&nbsp;&nbsp;| -CSS<br>
->&nbsp;&nbsp;| -HTML<br>
->&nbsp;&nbsp;| -JS <br>
+>&nbsp;&nbsp;| - Assets <br>
+>&nbsp;&nbsp;| - CSS<br>
+>&nbsp;&nbsp;| - HTML<br>
+>&nbsp;&nbsp;| - JS <br>
 
 ## Equipo de Desarrollo
 

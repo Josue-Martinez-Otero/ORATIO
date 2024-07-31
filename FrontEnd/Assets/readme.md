@@ -9,10 +9,10 @@ En este apartado se encontraran las imagenes relacionadas y utilizadas con la ap
 >| - DataBases <br>
 >| - Documentation <br>
 >**| - FrontEnd** <br>
->&nbsp;&nbsp; **| -Assets** <br>
->&nbsp;&nbsp;| -CSS<br>
->&nbsp;&nbsp;| -HTML<br>
->&nbsp;&nbsp;| -JS <br>
+>&nbsp;&nbsp; **| - Assets** <br>
+>&nbsp;&nbsp;| - CSS<br>
+>&nbsp;&nbsp;| - HTML<br>
+>&nbsp;&nbsp;| - JS <br>
 
 ## Equipo de Desarrollo
 
