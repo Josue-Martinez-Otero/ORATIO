@@ -1,5 +1,5 @@
 # Assets
-En este apartado se encontraran las imagenes relacionadas y utilizadas con la aplicación web.
+En este apartado se encontraran todos los recursos multimedia y archivos estáticos utilizados en la aplicación. Los assets incluyen imágenes, fuentes, íconos, y otros archivos que son necesarios para la correcta visualización y funcionamiento del frontend
 
 ## Estructura archivos
 
