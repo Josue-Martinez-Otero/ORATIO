@@ -1,4 +1,4 @@
-# FrontEnd ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+# HTML ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 En este apartado se encontraran todo lo relacionado con parte de la estructuración de la página web, accesibilidad, compatibilidad e integración con otros lenguajes.
 ## Estructura archivos
 
@@ -8,10 +8,10 @@ En este apartado se encontraran todo lo relacionado con parte de la estructuraci
 >| - DataBases <br>
 >| - Documentation <br>
 >**| - FrontEnd** <br>
->&nbsp;&nbsp;| -Assets <br>
->&nbsp;&nbsp;| -CSS<br>
->&nbsp;&nbsp;| -HTML<br>
->&nbsp;&nbsp;| -JS <br>
+>&nbsp;&nbsp;| - Assets <br>
+>&nbsp;&nbsp;| - CSS<br>
+>&nbsp;&nbsp;**| - HTML**<br>
+>&nbsp;&nbsp;| - JS <br>
 
 ## Equipo de Desarrollo
 

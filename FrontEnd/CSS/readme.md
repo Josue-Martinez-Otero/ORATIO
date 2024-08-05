@@ -8,10 +8,10 @@ En este apartado se encontraran todo lo relacionado con la parte de estilo de la
 >| - DataBases <br>
 >| - Documentation <br>
 >**| - FrontEnd** <br>
->&nbsp;&nbsp;| -Assets <br>
->&nbsp;&nbsp;| -CSS<br>
->&nbsp;&nbsp;| -HTML<br>
->&nbsp;&nbsp;| -JS <br>
+>&nbsp;&nbsp;| - Assets <br>
+>&nbsp;&nbsp;| - CSS<br>
+>&nbsp;&nbsp;| - HTML<br>
+>&nbsp;&nbsp;| - JS <br> 
 
 ## Equipo de Desarrollo
 
